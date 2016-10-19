@@ -5,6 +5,7 @@ categories: jekyll update
 ---
 
 
+
 Dr. A Velumani founded Thyrocare over a decade ago. Since its inception, Thyrocare Technologies Limited has been one of the most popular laboratory chains in India. Spread across 2000+ towns in India and abroad, Thyrocare claims to process more than 40,000 specimens and more than 2,00,000 clinical chemistry investigations everyday. Its mission is to ensure that the right value is given in the right time to the right patient, and with this it aims to meet 50% of the diagnostic needs of 50% of the world's population at 50% of the costs.
 
 Thyrocare believes that ‘Quality’ is the heart of any intelligent management. It is one of India’s first diagnostic labs to achieve internationally acclaimed quality accreditations such as ISO 9001-2000 rating as early as 2001, which is now escalated to ISO 9001:2008; NABL (National Accreditation Board for Testing and Calibration Laboratories) in 2005 and CAP (College of American Pathologists) certification in 2007. 
