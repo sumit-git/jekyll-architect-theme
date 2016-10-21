@@ -1,11 +1,10 @@
 ---
-layout: post
-title: About
+layout: thyrocare
+title: Thyrocare Labs -Offers & Test packages | Practo.com
+lab: Thyrocare India
 categories: jekyll update
 ---
-
-
-
+<h1> About </h1>
 Dr. A Velumani founded Thyrocare over a decade ago. Since its inception, Thyrocare Technologies Limited has been one of the most popular laboratory chains in India. Spread across 2000+ towns in India and abroad, Thyrocare claims to process more than 40,000 specimens and more than 2,00,000 clinical chemistry investigations everyday. Its mission is to ensure that the right value is given in the right time to the right patient, and with this it aims to meet 50% of the diagnostic needs of 50% of the world's population at 50% of the costs.
 
 Thyrocare believes that ‘Quality’ is the heart of any intelligent management. It is one of India’s first diagnostic labs to achieve internationally acclaimed quality accreditations such as ISO 9001-2000 rating as early as 2001, which is now escalated to ISO 9001:2008; NABL (National Accreditation Board for Testing and Calibration Laboratories) in 2005 and CAP (College of American Pathologists) certification in 2007. 
@@ -15,3 +14,11 @@ Thyrocare’s focus is on providing high-quality investigative studies at an aff
 At Thyrocare, online bookings are made available for a wide range of tests. Thyrocare collects almost all the samples through franchisees spread across the country. Thyrocare offers home-collection facility and considers 8 am to 11 am as the ideal time for sample collection, unless otherwise recommended by your doctor. Thyrocare strives to innovate and remain at par with global standards by providing world-class service delivery at very competitive prices. In India, Thyrocare is the first and one of the most advanced totally automated laboratories. Over the years since its inception, Thyrocare has upgraded itself to 100% barcoded system with bi-directional interface and complete automation. All the samples collected are packed and shipped with a triple-packing system as per WHO-IATA guidelines.
 
 In some cases Thyrocare may offer a Thyrocare discount coupon of 20% for returning customers. Thyrocare coupons may be provided for certain Thyrocare health packages or tests and such services can be availed on following the instructions given on the discount coupon.
+
+ <h2> What Thyrocare offers? </h2>
+ Thyrocare offers quality preventive healthcare services at affordable costs, and prices for Thyrocare packages can start from Rs 500. Thyrocare Pro Aarogyam 1.7 includes a set of 86 tests and is available online for an approximate amount of Rs 2400. Prices for Thyrocare tests are subject to change. Watch this space for latest information on Thyrocare offers and packages.
+
+
+ <h2> Thyrocare Test packages </h2>
+
+ Some of the popular Thyrocare packages include Thyrocare Aarogyam, Thyrocare Wellness M, Thyrocare Wellness A, Thyrocare Wellness B, Thyrocare Wellness C and Thyrocare Wellness D. Depending on the type of package, the number of tests per Thyrocare package can vary between 30 to 90 tests. Thyrocare Wellness B is the most popular package and includes a complete hemogram, diabetes, thyroid, iron deficiency, lipid/cholesterol profile, liver profile, pancreatic profile, renal/kidney profile, toxic elements, vitamin profile and cardiac risk marker tests.
